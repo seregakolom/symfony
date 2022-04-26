@@ -6,6 +6,6 @@ class Log
 
         public function __construct(string $path_value)
         {
-
+            $this->pathLog = $path_value;gi
         }
     }
